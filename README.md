@@ -1,4 +1,4 @@
-# spr-viewer
+# COUNTER STRIKE .SPR VIEWER
 Online tool to view sprite (`*.spr`) files in the browser
 
 ## [[DEMO]Try it here](https://vadimdez.github.io/spr-viewer/)
