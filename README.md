@@ -7,9 +7,6 @@ Online tool to view sprite (`*.spr`) files in the browser
 
 
 
-> This project was developed for [https://github.com/VadimDez/Counter-Strike-JS](https://github.com/VadimDez/Counter-Strike-JS)
-
-
 ## License
 
 [MIT](https://tldrlegal.com/license/mit-license) © [Vadym Yatsyuk](https://github.com/vadimdez)
